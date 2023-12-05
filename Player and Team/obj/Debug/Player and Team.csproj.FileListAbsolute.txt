@@ -1,0 +1,7 @@
+E:\mphasis\problem statement\simply learn projects\Phase 1 main\Player and Team\bin\Debug\Player and Team.exe.config
+E:\mphasis\problem statement\simply learn projects\Phase 1 main\Player and Team\bin\Debug\Player and Team.exe
+E:\mphasis\problem statement\simply learn projects\Phase 1 main\Player and Team\bin\Debug\Player and Team.pdb
+E:\mphasis\problem statement\simply learn projects\Phase 1 main\Player and Team\obj\Debug\Player and Team.csproj.AssemblyReference.cache
+E:\mphasis\problem statement\simply learn projects\Phase 1 main\Player and Team\obj\Debug\Player and Team.csproj.CoreCompileInputs.cache
+E:\mphasis\problem statement\simply learn projects\Phase 1 main\Player and Team\obj\Debug\Player and Team.exe
+E:\mphasis\problem statement\simply learn projects\Phase 1 main\Player and Team\obj\Debug\Player and Team.pdb
